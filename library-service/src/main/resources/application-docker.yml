@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://mysql:3306/librarydb?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+    username: libuser
+    password: libpass
+
+billing:
+  base-url: http://billing-service:8082
