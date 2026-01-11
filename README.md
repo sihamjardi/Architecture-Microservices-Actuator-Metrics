@@ -59,6 +59,18 @@ Le verrou sur la base de données est nécessaire pour éviter des emprunts simu
 Le circuit breaker protège le système d’une surcharge et déclenche le fallback pour maintenir la résilience.
 
 ---
+## Autre
+
+### Docker
+<img width="960" height="493" alt="Capture d&#39;écran 2026-01-11 215255" src="https://github.com/user-attachments/assets/84b29e56-1a6f-4163-9d74-5e453c6b4632" />
+
+<img width="914" height="491" alt="Capture d&#39;écran 2026-01-11 215129" src="https://github.com/user-attachments/assets/2e86d560-d7c7-4451-9c73-ee3f18eb1b68" />
+
+<img width="957" height="500" alt="Capture d&#39;écran 2026-01-11 215245" src="https://github.com/user-attachments/assets/f7207e45-cb9b-4a22-9f80-1fc662877504" />
+
+<img width="922" height="410" alt="Capture d&#39;écran 2026-01-11 214752" src="https://github.com/user-attachments/assets/011909b8-e696-4d44-9941-7c8ed162b9b2" />
+
+---
 
 ## Auteur
 
